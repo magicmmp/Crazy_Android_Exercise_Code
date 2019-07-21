@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     ToggleButton toggle;
     Switch switcher;
     @Override
+
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
