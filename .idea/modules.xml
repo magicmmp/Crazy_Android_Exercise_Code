@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Crazy_Android_Exercise_Code.iml" filepath="$PROJECT_DIR$/Crazy_Android_Exercise_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" filepath="$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" filepath="$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/inputui_2_3_2/inputui_2_3_2.iml" filepath="$PROJECT_DIR$/inputui_2_3_2/inputui_2_3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" filepath="$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" />
     </modules>
   </component>
 </project>

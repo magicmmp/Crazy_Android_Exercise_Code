@@ -1,1 +1,1 @@
-include ':app', ':inputui_2_3_2'
+include ':app', ':inputui_2_3_2', ':buttontest_2_3_3', ':togglebutton_2_3_6', ':clocktest_2_3_7'

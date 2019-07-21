@@ -9,7 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buttontest_2_3_3" />
+            <option value="$PROJECT_DIR$/clocktest_2_3_7" />
             <option value="$PROJECT_DIR$/inputui_2_3_2" />
+            <option value="$PROJECT_DIR$/togglebutton_2_3_6" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
