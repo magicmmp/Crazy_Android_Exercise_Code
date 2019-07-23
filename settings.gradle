@@ -1,1 +1,1 @@
-include ':app', ':inputui_2_3_2', ':buttontest_2_3_3', ':togglebutton_2_3_6', ':clocktest_2_3_7', ':imageviewtest_2_4_1', ':imagebutton_2_4_2', ':autocompletetextview_2_5_3', ':gridview_2_5_4'
+include ':app', ':inputui_2_3_2', ':buttontest_2_3_3', ':togglebutton_2_3_6', ':clocktest_2_3_7', ':imageviewtest_2_4_1', ':imagebutton_2_4_2', ':autocompletetextview_2_5_3', ':gridview_2_5_4', ':spinner_2_5_6'
