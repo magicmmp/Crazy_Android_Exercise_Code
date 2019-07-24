@@ -8,16 +8,22 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapterviewflipper_2_5_7" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/autocompletetextview_2_5_3" />
             <option value="$PROJECT_DIR$/buttontest_2_3_3" />
+            <option value="$PROJECT_DIR$/calendarview_2_8_2" />
             <option value="$PROJECT_DIR$/clocktest_2_3_7" />
             <option value="$PROJECT_DIR$/gridview_2_5_4" />
             <option value="$PROJECT_DIR$/imagebutton_2_4_2" />
             <option value="$PROJECT_DIR$/imageviewtest_2_4_1" />
             <option value="$PROJECT_DIR$/inputui_2_3_2" />
+            <option value="$PROJECT_DIR$/progressbar_2_6_1" />
+            <option value="$PROJECT_DIR$/seekbar_and_ratingbar_2_6_2" />
             <option value="$PROJECT_DIR$/spinner_2_5_6" />
+            <option value="$PROJECT_DIR$/timepicker_2_8_3" />
             <option value="$PROJECT_DIR$/togglebutton_2_3_6" />
+            <option value="$PROJECT_DIR$/viewswitcher_2_7_1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

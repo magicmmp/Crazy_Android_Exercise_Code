@@ -3,16 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Crazy_Android_Exercise_Code.iml" filepath="$PROJECT_DIR$/Crazy_Android_Exercise_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterviewflipper_2_5_7/adapterviewflipper_2_5_7.iml" filepath="$PROJECT_DIR$/adapterviewflipper_2_5_7/adapterviewflipper_2_5_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/autocompletetextview_2_5_3/autocompletetextview_2_5_3.iml" filepath="$PROJECT_DIR$/autocompletetextview_2_5_3/autocompletetextview_2_5_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" filepath="$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" filepath="$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" filepath="$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" filepath="$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagebutton_2_4_2/imagebutton_2_4_2.iml" filepath="$PROJECT_DIR$/imagebutton_2_4_2/imagebutton_2_4_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageviewtest_2_4_1/imageviewtest_2_4_1.iml" filepath="$PROJECT_DIR$/imageviewtest_2_4_1/imageviewtest_2_4_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inputui_2_3_2/inputui_2_3_2.iml" filepath="$PROJECT_DIR$/inputui_2_3_2/inputui_2_3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" filepath="$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbar_and_ratingbar_2_6_2/seekbar_and_ratingbar_2_6_2.iml" filepath="$PROJECT_DIR$/seekbar_and_ratingbar_2_6_2/seekbar_and_ratingbar_2_6_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinner_2_5_6/spinner_2_5_6.iml" filepath="$PROJECT_DIR$/spinner_2_5_6/spinner_2_5_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepicker_2_8_3/timepicker_2_8_3.iml" filepath="$PROJECT_DIR$/timepicker_2_8_3/timepicker_2_8_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" filepath="$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewswitcher_2_7_1/viewswitcher_2_7_1.iml" filepath="$PROJECT_DIR$/viewswitcher_2_7_1/viewswitcher_2_7_1.iml" />
     </modules>
   </component>
 </project>
