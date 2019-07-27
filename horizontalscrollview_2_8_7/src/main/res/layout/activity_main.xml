@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 定义ScrollView，为里面的组件添加垂直滚动条 -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- 定义HorizontalScrollView，为里面的组件添加水平滚动条 -->
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="男子800米自由泳：孙杨获第六名"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7月24日，孙杨在比赛中。 当日，在韩国光州举行的2019国际泳联世界游泳锦标赛男子800米自由泳决赛中"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="中国选手孙杨以7分45秒01的成绩获得第六名"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="韩国决定建造新型两栖攻击舰LPH-II项目"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="新型两栖攻击舰排水量达3万吨"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="将搭载F-35B垂直起降战斗机，"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="充当“准航母”，\n用于韩军未来的海外军力投送。"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="韩国建造“准航母”的目的是为了应对中日近年来持续的海军扩张，"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="以及2020年以后的韩国国防政策调整。"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="韩国去年下水的“马罗岛”号两栖攻击舰，"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未来的LPHII搭载能力将类似于美国的“美国”号 。"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="由于F-35B提供了前所未有的平台适应性，"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="韩国从去年开始考虑建造“准航母”，
+                            以提升其蓝水海军战斗力。"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未来的LPHII搭载能力将类似于美国的“美国”号 。"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="由于F-35B提供了前所未有的平台适应性，"
+                android:textSize="30dp" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="韩国从去年开始考虑建造“准航母”，
+                            以提升其蓝水海军战斗力。"
+                android:textSize="30dp" />
+        </LinearLayout>
+    </HorizontalScrollView>
+</ScrollView>

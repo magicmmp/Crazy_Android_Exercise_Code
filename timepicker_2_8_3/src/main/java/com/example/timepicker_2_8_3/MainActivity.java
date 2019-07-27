@@ -10,6 +10,11 @@ import android.widget.TimePicker.OnTimeChangedListener;
 
 import java.util.Calendar;
 
+/***
+ * 问题：本例子如使用Material Design主题不能选择日期时间
+ *
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     // 定义5个记录当前时间的变量
@@ -18,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private int day;
     private int hour;
     private int minute;
+
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
