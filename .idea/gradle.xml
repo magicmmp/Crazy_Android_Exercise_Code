@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/actionbar_dropdownnav_2_11_6" />
+            <option value="$PROJECT_DIR$/actiondata_5_2_4" />
             <option value="$PROJECT_DIR$/actionitem_2_11_2" />
             <option value="$PROJECT_DIR$/actionview_2_11_4" />
             <option value="$PROJECT_DIR$/adapterviewflipper_2_5_7" />
@@ -17,6 +18,7 @@
             <option value="$PROJECT_DIR$/autocompletetextview_2_5_3" />
             <option value="$PROJECT_DIR$/buttontest_2_3_3" />
             <option value="$PROJECT_DIR$/calendarview_2_8_2" />
+            <option value="$PROJECT_DIR$/callbackhandler_3_3_1" />
             <option value="$PROJECT_DIR$/clocktest_2_3_7" />
             <option value="$PROJECT_DIR$/datepickerdialog_2_9_4" />
             <option value="$PROJECT_DIR$/gridview_2_5_4" />
@@ -25,6 +27,7 @@
             <option value="$PROJECT_DIR$/imageviewtest_2_4_1" />
             <option value="$PROJECT_DIR$/inputui_2_3_2" />
             <option value="$PROJECT_DIR$/menu_2_10_1" />
+            <option value="$PROJECT_DIR$/moveplane_3_2_2" />
             <option value="$PROJECT_DIR$/popupwindow_2_9_3" />
             <option value="$PROJECT_DIR$/progressbar_2_6_1" />
             <option value="$PROJECT_DIR$/progressdialog_2_9_5" />
