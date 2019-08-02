@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">用Pull解析XML资源</string>
+    <string name="parse">解析XML资源</string>
+</resources>
