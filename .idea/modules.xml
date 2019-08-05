@@ -15,10 +15,13 @@
       <module fileurl="file://$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" filepath="$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" filepath="$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/callbackhandler_3_3_1/callbackhandler_3_3_1.iml" filepath="$PROJECT_DIR$/callbackhandler_3_3_1/callbackhandler_3_3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canvas_7_2_1/canvas_7_2_1.iml" filepath="$PROJECT_DIR$/canvas_7_2_1/canvas_7_2_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/clipdrawable_6_4_5/clipdrawable_6_4_5.iml" filepath="$PROJECT_DIR$/clipdrawable_6_4_5/clipdrawable_6_4_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" filepath="$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/datepickerdialog_2_9_4/datepickerdialog_2_9_4.iml" filepath="$PROJECT_DIR$/datepickerdialog_2_9_4/datepickerdialog_2_9_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawtextonpath_7_2_3/drawtextonpath_7_2_3.iml" filepath="$PROJECT_DIR$/drawtextonpath_7_2_3/drawtextonpath_7_2_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" filepath="$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handdraw_7_2_3/handdraw_7_2_3.iml" filepath="$PROJECT_DIR$/handdraw_7_2_3/handdraw_7_2_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/horizontalscrollview_2_8_7/horizontalscrollview_2_8_7.iml" filepath="$PROJECT_DIR$/horizontalscrollview_2_8_7/horizontalscrollview_2_8_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagebutton_2_4_2/imagebutton_2_4_2.iml" filepath="$PROJECT_DIR$/imagebutton_2_4_2/imagebutton_2_4_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageviewtest_2_4_1/imageviewtest_2_4_1.iml" filepath="$PROJECT_DIR$/imageviewtest_2_4_1/imageviewtest_2_4_1.iml" />
@@ -26,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/layerdrawable_6_4_3/layerdrawable_6_4_3.iml" filepath="$PROJECT_DIR$/layerdrawable_6_4_3/layerdrawable_6_4_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu_2_10_1/menu_2_10_1.iml" filepath="$PROJECT_DIR$/menu_2_10_1/menu_2_10_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/moveplane_3_2_2/moveplane_3_2_2.iml" filepath="$PROJECT_DIR$/moveplane_3_2_2/moveplane_3_2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patheffect_7_2_2/patheffect_7_2_2.iml" filepath="$PROJECT_DIR$/patheffect_7_2_2/patheffect_7_2_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/popupwindow_2_9_3/popupwindow_2_9_3.iml" filepath="$PROJECT_DIR$/popupwindow_2_9_3/popupwindow_2_9_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" filepath="$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressdialog_2_9_5/progressdialog_2_9_5.iml" filepath="$PROJECT_DIR$/progressdialog_2_9_5/progressdialog_2_9_5.iml" />
