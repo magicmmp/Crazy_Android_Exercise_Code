@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity
     private Matrix matrix= new Matrix();
     float viewW;
     float viewH;
-    // 声明位图渲染对象
+    // 声明位图填充对象
     private Shader[] shaders = new Shader[5];
     // 声明颜色数组
     private int[] colors;

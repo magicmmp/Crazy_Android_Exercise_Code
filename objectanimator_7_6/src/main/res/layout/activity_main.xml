@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <TableLayout
+        android:stretchColumns="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:background="@color/dark_grey"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="属性动画类型："
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+
+            <Spinner
+                android:background="@color/blue_light"
+                android:gravity="center"
+                android:id="@+id/sp_object"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:spinnerMode="dialog" />
+        </TableRow>
+
+    </TableLayout>
+
+
+    <ImageView
+        android:background="@color/black"
+        android:id="@+id/iv_object_anim"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/oval" />
+
+</LinearLayout>

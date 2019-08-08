@@ -12,7 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/animationdrawable_6_4_6/animationdrawable_6_4_6.iml" filepath="$PROJECT_DIR$/animationdrawable_6_4_6/animationdrawable_6_4_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/autocompletetextview_2_5_3/autocompletetextview_2_5_3.iml" filepath="$PROJECT_DIR$/autocompletetextview_2_5_3/autocompletetextview_2_5_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blast_7_4/blast_7_4.iml" filepath="$PROJECT_DIR$/blast_7_4/blast_7_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bouncingballs_7_6/bouncingballs_7_6.iml" filepath="$PROJECT_DIR$/bouncingballs_7_6/bouncingballs_7_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterfly_7_5_2/butterfly_7_5_2.iml" filepath="$PROJECT_DIR$/butterfly_7_5_2/butterfly_7_5_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" filepath="$PROJECT_DIR$/buttontest_2_3_3/buttontest_2_3_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" filepath="$PROJECT_DIR$/calendarview_2_8_2/calendarview_2_8_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/callbackhandler_3_3_1/callbackhandler_3_3_1.iml" filepath="$PROJECT_DIR$/callbackhandler_3_3_1/callbackhandler_3_3_1.iml" />
@@ -20,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/clipdrawable_6_4_5/clipdrawable_6_4_5.iml" filepath="$PROJECT_DIR$/clipdrawable_6_4_5/clipdrawable_6_4_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" filepath="$PROJECT_DIR$/clocktest_2_3_7/clocktest_2_3_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/datepickerdialog_2_9_4/datepickerdialog_2_9_4.iml" filepath="$PROJECT_DIR$/datepickerdialog_2_9_4/datepickerdialog_2_9_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbtest_8_3/dbtest_8_3.iml" filepath="$PROJECT_DIR$/dbtest_8_3/dbtest_8_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawtextonpath_7_2_3/drawtextonpath_7_2_3.iml" filepath="$PROJECT_DIR$/drawtextonpath_7_2_3/drawtextonpath_7_2_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" filepath="$PROJECT_DIR$/gridview_2_5_4/gridview_2_5_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/handdraw_7_2_3/handdraw_7_2_3.iml" filepath="$PROJECT_DIR$/handdraw_7_2_3/handdraw_7_2_3.iml" />
@@ -33,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/mesh_7_3_2/mesh_7_3_2.iml" filepath="$PROJECT_DIR$/mesh_7_3_2/mesh_7_3_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/moveback_7_3_1/moveback_7_3_1.iml" filepath="$PROJECT_DIR$/moveback_7_3_1/moveback_7_3_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/moveplane_3_2_2/moveplane_3_2_2.iml" filepath="$PROJECT_DIR$/moveplane_3_2_2/moveplane_3_2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectanimator_7_6/objectanimator_7_6.iml" filepath="$PROJECT_DIR$/objectanimator_7_6/objectanimator_7_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/patheffect_7_2_2/patheffect_7_2_2.iml" filepath="$PROJECT_DIR$/patheffect_7_2_2/patheffect_7_2_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/popupwindow_2_9_3/popupwindow_2_9_3.iml" filepath="$PROJECT_DIR$/popupwindow_2_9_3/popupwindow_2_9_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" filepath="$PROJECT_DIR$/progressbar_2_6_1/progressbar_2_6_1.iml" />
@@ -45,9 +48,11 @@
       <module fileurl="file://$PROJECT_DIR$/spinner_2_5_6/spinner_2_5_6.iml" filepath="$PROJECT_DIR$/spinner_2_5_6/spinner_2_5_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/statelistdrawable_6_4_2/statelistdrawable_6_4_2.iml" filepath="$PROJECT_DIR$/statelistdrawable_6_4_2/statelistdrawable_6_4_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/style_and_theme_6_9/style_and_theme_6_9.iml" filepath="$PROJECT_DIR$/style_and_theme_6_9/style_and_theme_6_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfaceview_7_7/surfaceview_7_7.iml" filepath="$PROJECT_DIR$/surfaceview_7_7/surfaceview_7_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/tabhost_2_8_6/tabhost_2_8_6.iml" filepath="$PROJECT_DIR$/tabhost_2_8_6/tabhost_2_8_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/timepicker_2_8_3/timepicker_2_8_3.iml" filepath="$PROJECT_DIR$/timepicker_2_8_3/timepicker_2_8_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" filepath="$PROJECT_DIR$/togglebutton_2_3_6/togglebutton_2_3_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweenanim_7_5_2/tweenanim_7_5_2.iml" filepath="$PROJECT_DIR$/tweenanim_7_5_2/tweenanim_7_5_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewswitcher_2_7_1/viewswitcher_2_7_1.iml" filepath="$PROJECT_DIR$/viewswitcher_2_7_1/viewswitcher_2_7_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/xml_pullparser_6_6/xml_pullparser_6_6.iml" filepath="$PROJECT_DIR$/xml_pullparser_6_6/xml_pullparser_6_6.iml" />
     </modules>

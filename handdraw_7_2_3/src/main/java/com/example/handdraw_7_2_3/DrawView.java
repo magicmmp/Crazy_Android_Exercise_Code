@@ -1,14 +1,13 @@
 package com.example.handdraw_7_2_3;
 
-import android.view.View;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
-import android.util.AttributeSet;
 import android.view.MotionEvent;
+import android.view.View;
 
 /**
  * Created by pss on 2019/8/5.
@@ -78,6 +77,7 @@ public class DrawView extends View
     @Override
     public void onDraw(Canvas canvas)
     {
+        canvas.save();
         Paint bmpPaint = new Paint();
         // 将cacheBitmap绘制到该View组件上
         canvas.drawBitmap(cacheBitmap, 0, 0, bmpPaint); // ②
