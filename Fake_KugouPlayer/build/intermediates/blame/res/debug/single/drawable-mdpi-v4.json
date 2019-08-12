@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_media_library.jpg",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable-mdpi\\bg_media_library.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_splash.jpg",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable-mdpi\\bg_splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\net_error.jpg",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable-mdpi\\net_error.jpg"
+    }
+]

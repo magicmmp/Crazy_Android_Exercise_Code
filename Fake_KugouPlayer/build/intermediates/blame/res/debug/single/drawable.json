@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_selector_bg.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\grid_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_list_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_list_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar_thumb.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\search_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\player_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\player_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_anim.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\splash_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\create_playlist_header.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\create_playlist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\btn_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_play_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_play_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar_style.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_next_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_next_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_bg.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\list_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\lyr_handle_collapse.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\lyr_handle_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_playmode_random_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_playmode_random_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_pre_button.xml",
+        "source": "C:\\Users\\pss\\AndroidStudioProjects\\Crazy_Android_Exercise_Code\\Fake_KugouPlayer\\src\\main\\res\\drawable\\playback_pre_button.xml"
+    }
+]
